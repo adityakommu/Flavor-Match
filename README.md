@@ -1,6 +1,9 @@
 
 
+# Problem: Food enthusiasts and home cooks struggle to find similar dishes that match their taste preferences and dietary restrictions across different cuisines, leading to limited culinary exploration and repetitive meal choices.
+# Target users: Primarily food enthusiasts, Restaurant owners, health-conscious individuals, and home cooks who want to explore similar dishes while maintaining their dietary preferences (vegetarian/non-vegetarian).
 
+# Solution Highlight: FlavorMatch uses AWS Bedrock's Titan model to generate high-quality food images and Claude-3 for intelligent dish recommendations, helping users visualize and discover similar dishes while respecting their dietary preferences through vector similarity search.
 
 
 # 🍽️ FlavorMatch
