@@ -1,5 +1,3 @@
-
-
 # Problem:
 Food enthusiasts and home cooks struggle to find similar dishes that match their taste preferences and dietary restrictions across different cuisines, leading to limited culinary exploration and repetitive meal choices.
 # Target users: 
