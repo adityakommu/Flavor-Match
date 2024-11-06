@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlavorMatch - Similar Dishes Found</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        .results-container {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .query-info {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .result-card {
+            background: #fff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .result-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .result-image {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+        }
+
+        .result-content {
+            padding: 1.5rem;
+        }
+
+        .result-title {
+            font-size: 1.5rem;
+            margin-bottom: 1rem;
+            color: #333;
+        }
+
+        .result-details {
+            margin-bottom: 1rem;
+        }
+
+        .detail-item {
+            display: flex;
+            margin-bottom: 0.5rem;
+            align-items: baseline;
+        }
+
+        .detail-label {
+            font-weight: bold;
+            min-width: 100px;
+            color: #666;
+        }
+
+        .diet-tag {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+        }
+
+        .vegetarian {
+            background-color: #4caf50;
+            color: white;
+        }
+
+        .non-vegetarian {
+            background-color: #f44336;
+            color: white;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 2rem;
+            background: #fff;
+            border-radius: 8px;
+            margin-top: 2rem;
+        }
+
+        .back-button {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: #ff6b6b;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 1.5rem;
+            transition: background-color 0.3s;
+        }
+
+        .back-button:hover {
+            background-color: #ff5252;
+        }
+
+        @media (max-width: 768px) {
+            .results-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🍲 Flavor Match</h1>
+    </header>
+
+    <main class="results-container">
+        <div class="query-info">
+            <h2>Your Query: {{ query }}</h2>
+            {% if original_diet %}
+            <p>Diet Preference: <span class="diet-tag {% if 'non' in original_diet.lower() %}non-vegetarian{% else %}vegetarian{% endif %}">
+                {{ original_diet }}
+            </span></p>
+            {% endif %}
+        </div>
+
+        {% if results and results|length > 0 %}
+            <div class="results-grid">
+                {% for result in results[:2] %}  <!-- Only show up to 2 results -->
+                    <div class="result-card">
+                        {% if result.image_url %}
+                        <img src="{{ result.image_url }}" alt="{{ result.name }}" class="result-image">
+                        {% endif %}
+                        <div class="result-content">
+                            <h3 class="result-title">{{ result.name }}</h3>
+                            
+                            <span class="diet-tag {% if 'non' in result.Diet.lower() %}non-vegetarian{% else %}vegetarian{% endif %}">
+                                {{ result.Diet }}
+                            </span>
+                            
+                            <div class="result-details">
+                                {% if result.Cuisine != 'Unknown' %}
+                                <div class="detail-item">
+                                    <span class="detail-label">Cuisine:</span>
+                                    <span>{{ result.Cuisine }}</span>
+                                </div>
+                                {% endif %}
+                                
+                                {% if result.ingredients %}
+                                <div class="detail-item">
+                                    <span class="detail-label">Ingredients:</span>
+                                    <span>{{ result.ingredients }}</span>
+                                </div>
+                                {% endif %}
+                                
+                                {% if result.Generated_Description %}
+                                <div class="detail-item">
+                                    <span class="detail-label">Description:</span>
+                                    <span>{{ result.Generated_Description }}</span>
+                                </div>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-results">
+                <h2>No matching dishes found</h2>
+                <p>Try modifying your search or exploring different cuisines.</p>
+            </div>
+        {% endif %}
+
+        <div style="text-align: center; margin-top: 2rem;">
+            <a href="/" class="back-button">Try Another Search</a>
+        </div>
+    </main>
+</body>
+</html>

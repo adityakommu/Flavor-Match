@@ -1,0 +1,314 @@
+2024-11-05 20:22:03,186 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:22:03,186 - app - INFO - Application initialized successfully
+2024-11-05 20:22:03,186 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:22:03,186 - app - INFO - Debug mode: True
+2024-11-05 20:22:03,484 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 20:22:03,484 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 20:22:03,485 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:22:07,910 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:22:07,910 - app - INFO - Application initialized successfully
+2024-11-05 20:22:07,910 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:22:07,910 - app - INFO - Debug mode: True
+2024-11-05 20:22:07,937 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:22:07,997 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:22:29,782 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:22:29] "GET / HTTP/1.1" 200 -
+2024-11-05 20:22:29,888 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:22:29] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:22:34,742 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:22:34] "POST / HTTP/1.1" 200 -
+2024-11-05 20:22:35,252 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:22:35] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:23:21,599 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:23:22,844 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:23:42,289 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:23:42,290 - app - INFO - Application initialized successfully
+2024-11-05 20:23:42,290 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:23:42,290 - app - INFO - Debug mode: True
+2024-11-05 20:23:42,517 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 20:23:42,517 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 20:23:42,518 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:23:47,669 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:23:47,669 - app - INFO - Application initialized successfully
+2024-11-05 20:23:47,669 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:23:47,669 - app - INFO - Debug mode: True
+2024-11-05 20:23:47,743 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:23:47,781 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:23:52,440 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:23:52] "GET / HTTP/1.1" 200 -
+2024-11-05 20:23:52,544 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:23:52] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:24:20,335 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:24:20] "POST / HTTP/1.1" 200 -
+2024-11-05 20:24:20,860 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:24:20] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:24:20,863 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:24:20] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_202419.png?t=20241105_202419 HTTP/1.1" 200 -
+2024-11-05 20:24:20,863 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:24:20] "GET /static/generated_images/365ee7741f7cc693503dbce1fdb02afa_20241105_202419.png?t=20241105_202419 HTTP/1.1" 200 -
+2024-11-05 20:26:09,770 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:26:09] "GET / HTTP/1.1" 200 -
+2024-11-05 20:26:09,970 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:26:09] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:28:56,567 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:28:56] "GET / HTTP/1.1" 200 -
+2024-11-05 20:28:56,719 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:28:56] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:28:58,006 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:28:58] "GET / HTTP/1.1" 200 -
+2024-11-05 20:28:58,069 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:28:58] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:29:00,306 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:29:00] "GET / HTTP/1.1" 200 -
+2024-11-05 20:29:00,417 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:29:00] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 20:29:25,686 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:29:27,124 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:29:32,606 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:29:32,606 - app - INFO - Application initialized successfully
+2024-11-05 20:29:32,606 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:29:32,606 - app - INFO - Debug mode: True
+2024-11-05 20:29:32,736 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:29:32,783 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:29:43,473 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:29:44,052 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:29:48,718 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:29:48,718 - app - INFO - Application initialized successfully
+2024-11-05 20:29:48,718 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:29:48,718 - app - INFO - Debug mode: True
+2024-11-05 20:29:48,728 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:29:48,746 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:33:20,214 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:33:21,095 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:33:29,782 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:33:29,782 - app - INFO - Application initialized successfully
+2024-11-05 20:33:29,782 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:33:29,782 - app - INFO - Debug mode: True
+2024-11-05 20:33:29,808 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 20:33:29,808 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 20:33:29,811 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:33:33,806 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:33:33,807 - app - INFO - Application initialized successfully
+2024-11-05 20:33:33,807 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:33:33,807 - app - INFO - Debug mode: True
+2024-11-05 20:33:33,823 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:33:33,865 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:47:20,624 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:47:20] "GET / HTTP/1.1" 200 -
+2024-11-05 20:50:53,244 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:50:54,623 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:51:14,945 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:51:14,946 - app - INFO - Application initialized successfully
+2024-11-05 20:51:14,946 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:51:14,946 - app - INFO - Debug mode: True
+2024-11-05 20:51:15,703 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:51:15,787 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:51:16,825 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:51:16] "GET / HTTP/1.1" 200 -
+2024-11-05 20:51:21,327 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:51:22,337 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:51:34,798 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:51:34,799 - app - INFO - Application initialized successfully
+2024-11-05 20:51:34,799 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:51:34,799 - app - INFO - Debug mode: True
+2024-11-05 20:51:35,315 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 20:51:35,315 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 20:51:35,317 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:51:41,382 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:51:41,382 - app - INFO - Application initialized successfully
+2024-11-05 20:51:41,382 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:51:41,382 - app - INFO - Debug mode: True
+2024-11-05 20:51:41,805 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:51:41,832 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:51:47,464 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:51:47] "GET / HTTP/1.1" 200 -
+2024-11-05 20:56:59,709 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 20:57:01,303 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:57:17,020 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:57:17,021 - app - INFO - Application initialized successfully
+2024-11-05 20:57:17,021 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:57:17,021 - app - INFO - Debug mode: True
+2024-11-05 20:57:17,275 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 20:57:17,275 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 20:57:17,277 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 20:57:21,413 - app - INFO - Starting Food Recommendation App...
+2024-11-05 20:57:21,414 - app - INFO - Application initialized successfully
+2024-11-05 20:57:21,414 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 20:57:21,414 - app - INFO - Debug mode: True
+2024-11-05 20:57:21,432 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 20:57:21,503 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 20:58:26,589 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 20:58:26] "GET / HTTP/1.1" 200 -
+2024-11-05 21:00:27,923 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 21:00:29,096 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:00:46,033 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:00:46,034 - app - INFO - Application initialized successfully
+2024-11-05 21:00:46,034 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:00:46,034 - app - INFO - Debug mode: True
+2024-11-05 21:00:46,061 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 21:00:46,061 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 21:00:46,062 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:00:50,683 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:00:50,683 - app - INFO - Application initialized successfully
+2024-11-05 21:00:50,683 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:00:50,684 - app - INFO - Debug mode: True
+2024-11-05 21:00:50,742 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 21:00:50,789 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 21:00:58,045 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:00:58] "GET / HTTP/1.1" 200 -
+2024-11-05 21:01:22,251 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 21:01:23,329 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:01:35,577 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:01:35,577 - app - INFO - Application initialized successfully
+2024-11-05 21:01:35,577 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:01:35,577 - app - INFO - Debug mode: True
+2024-11-05 21:01:35,597 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 21:01:35,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 21:01:35,600 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:01:40,122 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:01:40,122 - app - INFO - Application initialized successfully
+2024-11-05 21:01:40,122 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:01:40,122 - app - INFO - Debug mode: True
+2024-11-05 21:01:40,252 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 21:01:40,271 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 21:01:56,410 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:01:56] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:00,845 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:00] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:02,930 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:02] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:05,226 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:05] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:06,163 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:06] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:48,514 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:48] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:51,138 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:05:51] "GET / HTTP/1.1" 200 -
+2024-11-05 21:05:59,252 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 21:06:00,427 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:06:13,245 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:06:13,246 - app - INFO - Application initialized successfully
+2024-11-05 21:06:13,246 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:06:13,246 - app - INFO - Debug mode: True
+2024-11-05 21:06:13,264 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-05 21:06:13,266 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-05 21:06:13,267 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:06:17,718 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:06:17,718 - app - INFO - Application initialized successfully
+2024-11-05 21:06:17,718 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:06:17,718 - app - INFO - Debug mode: True
+2024-11-05 21:06:17,734 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 21:06:17,795 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 21:08:52,070 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:08:52] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:18,755 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:18] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:20,322 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:20] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:21,045 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:21] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:21,545 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:21] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:35,258 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:35] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:37,202 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:37] "GET / HTTP/1.1" 200 -
+2024-11-05 21:09:38,153 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:09:38] "GET / HTTP/1.1" 200 -
+2024-11-05 21:13:49,381 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:13:49] "GET / HTTP/1.1" 200 -
+2024-11-05 21:13:51,845 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:13:51] "GET / HTTP/1.1" 200 -
+2024-11-05 21:13:59,522 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:13:59] "GET / HTTP/1.1" 200 -
+2024-11-05 21:19:42,694 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:19:42] "GET / HTTP/1.1" 200 -
+2024-11-05 21:19:45,117 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:19:45] "GET / HTTP/1.1" 200 -
+2024-11-05 21:20:36,051 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:20:36] "GET / HTTP/1.1" 200 -
+2024-11-05 21:20:41,163 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:20:41] "GET / HTTP/1.1" 200 -
+2024-11-05 21:21:53,500 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:21:53] "POST / HTTP/1.1" 200 -
+2024-11-05 21:21:53,692 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:21:53] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_212153.png?t=20241105_212153 HTTP/1.1" 200 -
+2024-11-05 21:21:53,694 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:21:53] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_212152.png?t=20241105_212152 HTTP/1.1" 200 -
+2024-11-05 21:21:53,695 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:21:53] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 21:23:46,557 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:23:46] "GET / HTTP/1.1" 200 -
+2024-11-05 21:23:58,133 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:23:58] "POST / HTTP/1.1" 200 -
+2024-11-05 21:24:08,297 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:24:08] "POST / HTTP/1.1" 200 -
+2024-11-05 21:26:38,572 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:26:38] "GET / HTTP/1.1" 200 -
+2024-11-05 21:27:03,019 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:03] "POST / HTTP/1.1" 200 -
+2024-11-05 21:27:03,119 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:03] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_212701.png?t=20241105_212701 HTTP/1.1" 200 -
+2024-11-05 21:27:03,119 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:03] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_212701.png?t=20241105_212701 HTTP/1.1" 200 -
+2024-11-05 21:27:24,438 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:24] "GET / HTTP/1.1" 200 -
+2024-11-05 21:27:44,146 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:44] "POST / HTTP/1.1" 200 -
+2024-11-05 21:27:45,551 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:45] "POST / HTTP/1.1" 200 -
+2024-11-05 21:27:45,693 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:27:45] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 21:33:57,555 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-05 21:34:04,042 - werkzeug - INFO -  * Restarting with stat
+2024-11-05 21:34:13,191 - app - INFO - Starting Food Recommendation App...
+2024-11-05 21:34:13,191 - app - INFO - Application initialized successfully
+2024-11-05 21:34:13,191 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-05 21:34:13,191 - app - INFO - Debug mode: True
+2024-11-05 21:34:13,215 - werkzeug - WARNING -  * Debugger is active!
+2024-11-05 21:34:13,257 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-05 21:47:39,583 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:47:39] "GET / HTTP/1.1" 200 -
+2024-11-05 21:48:06,408 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:48:06] "POST / HTTP/1.1" 200 -
+2024-11-05 21:48:06,605 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:48:06] "GET /static/generated_images/4b31ea19c6d6d0aa69ce9bee9b7b9305_20241105_214806.png?t=20241105_214806 HTTP/1.1" 200 -
+2024-11-05 21:48:06,606 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:48:06] "GET /static/generated_images/56200ce221df862e26744fb522d4c55d_20241105_214806.png?t=20241105_214806 HTTP/1.1" 200 -
+2024-11-05 21:48:06,607 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:48:06] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 21:48:35,615 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:48:35] "GET / HTTP/1.1" 200 -
+2024-11-05 21:52:41,997 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:52:41] "GET / HTTP/1.1" 200 -
+2024-11-05 21:52:51,950 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:52:51] "GET / HTTP/1.1" 200 -
+2024-11-05 21:54:57,499 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:54:57] "GET / HTTP/1.1" 200 -
+2024-11-05 21:55:24,235 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:55:24] "POST / HTTP/1.1" 200 -
+2024-11-05 21:55:24,478 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:55:24] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 21:55:24,479 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:55:24] "GET /static/generated_images/98f66e01c5e6e318b77cf0d75fab2080_20241105_215523.png?t=20241105_215523 HTTP/1.1" 200 -
+2024-11-05 21:55:24,479 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:55:24] "GET /static/generated_images/7703aa186a8f169ea8262e24eb3f228a_20241105_215523.png?t=20241105_215523 HTTP/1.1" 200 -
+2024-11-05 21:58:56,685 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:58:56] "GET / HTTP/1.1" 200 -
+2024-11-05 21:59:22,511 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:59:22] "POST / HTTP/1.1" 200 -
+2024-11-05 21:59:22,592 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:59:22] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 21:59:22,604 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:59:22] "GET /static/generated_images/7703aa186a8f169ea8262e24eb3f228a_20241105_215922.png?t=20241105_215922 HTTP/1.1" 200 -
+2024-11-05 21:59:22,606 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:59:22] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_215921.png?t=20241105_215921 HTTP/1.1" 200 -
+2024-11-05 21:59:26,844 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 21:59:26] "GET / HTTP/1.1" 200 -
+2024-11-05 22:03:10,353 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:03:10] "GET / HTTP/1.1" 200 -
+2024-11-05 22:03:43,410 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:03:43] "POST / HTTP/1.1" 200 -
+2024-11-05 22:03:43,637 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:03:43] "GET /static/generated_images/98f66e01c5e6e318b77cf0d75fab2080_20241105_220335.png?t=20241105_220335 HTTP/1.1" 200 -
+2024-11-05 22:03:43,638 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:03:43] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:07:21,293 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:21] "GET / HTTP/1.1" 200 -
+2024-11-05 22:07:48,739 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:48] "POST / HTTP/1.1" 200 -
+2024-11-05 22:07:48,933 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:48] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:07:48,948 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:48] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_220748.png?t=20241105_220748 HTTP/1.1" 200 -
+2024-11-05 22:07:48,968 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:48] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_220748.png?t=20241105_220748 HTTP/1.1" 200 -
+2024-11-05 22:07:52,997 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:07:52] "GET / HTTP/1.1" 200 -
+2024-11-05 22:08:20,228 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:20] "POST / HTTP/1.1" 200 -
+2024-11-05 22:08:20,413 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:20] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_220819.png?t=20241105_220819 HTTP/1.1" 200 -
+2024-11-05 22:08:20,414 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:20] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:08:28,234 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:28] "GET / HTTP/1.1" 200 -
+2024-11-05 22:08:53,818 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:53] "POST / HTTP/1.1" 200 -
+2024-11-05 22:08:54,130 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:54] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_220853.png?t=20241105_220853 HTTP/1.1" 200 -
+2024-11-05 22:08:54,132 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:08:54] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:10:02,650 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:02] "GET / HTTP/1.1" 200 -
+2024-11-05 22:10:25,501 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:25] "POST / HTTP/1.1" 200 -
+2024-11-05 22:10:25,604 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:25] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:10:25,688 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:25] "GET /static/generated_images/7703aa186a8f169ea8262e24eb3f228a_20241105_221025.png?t=20241105_221025 HTTP/1.1" 200 -
+2024-11-05 22:10:25,703 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:25] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_221025.png?t=20241105_221025 HTTP/1.1" 200 -
+2024-11-05 22:10:59,633 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:10:59] "GET / HTTP/1.1" 200 -
+2024-11-05 22:11:25,480 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:11:25] "POST / HTTP/1.1" 200 -
+2024-11-05 22:11:25,574 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:11:25] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:11:25,577 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:11:25] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_221122.png?t=20241105_221122 HTTP/1.1" 200 -
+2024-11-05 22:11:25,579 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:11:25] "GET /static/generated_images/98f66e01c5e6e318b77cf0d75fab2080_20241105_221125.png?t=20241105_221125 HTTP/1.1" 200 -
+2024-11-05 22:13:02,345 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:02] "GET / HTTP/1.1" 200 -
+2024-11-05 22:13:39,724 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:39] "POST / HTTP/1.1" 200 -
+2024-11-05 22:13:39,949 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:39] "GET /static/generated_images/122924c7354977f9367ea1aac622192c_20241105_221339.png?t=20241105_221339 HTTP/1.1" 200 -
+2024-11-05 22:13:39,953 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:39] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-05 22:13:39,960 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:39] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_221339.png?t=20241105_221339 HTTP/1.1" 200 -
+2024-11-05 22:13:47,195 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:13:47] "GET / HTTP/1.1" 200 -
+2024-11-05 22:14:48,826 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:14:48] "GET / HTTP/1.1" 200 -
+2024-11-05 22:15:25,231 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:15:25] "GET / HTTP/1.1" 200 -
+2024-11-05 22:16:11,778 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:16:11] "POST / HTTP/1.1" 200 -
+2024-11-05 22:16:11,956 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:16:11] "GET /static/generated_images/b71279f7eb171fbd28b8259267c45609_20241105_221611.png?t=20241105_221611 HTTP/1.1" 200 -
+2024-11-05 22:16:11,974 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:16:11] "GET /static/generated_images/7703aa186a8f169ea8262e24eb3f228a_20241105_221611.png?t=20241105_221611 HTTP/1.1" 200 -
+2024-11-05 22:16:11,974 - werkzeug - INFO - 127.0.0.1 - - [05/Nov/2024 22:16:11] "GET /static/style.css HTTP/1.1" 200 -
+2024-11-06 10:00:15,193 - werkzeug - INFO -  * Detected change in '/Users/aditya/Flavor_match/app.py', reloading
+2024-11-06 10:00:16,623 - werkzeug - INFO -  * Restarting with stat
+2024-11-06 10:00:42,196 - app - INFO - Starting Food Recommendation App...
+2024-11-06 10:00:42,197 - app - INFO - Application initialized successfully
+2024-11-06 10:00:42,197 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-06 10:00:42,197 - app - INFO - Debug mode: True
+2024-11-06 10:00:42,350 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:4439
+ * Running on http://172.16.0.2:4439
+2024-11-06 10:00:42,350 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-11-06 10:00:42,351 - werkzeug - INFO -  * Restarting with stat
+2024-11-06 10:00:45,930 - app - INFO - Starting Food Recommendation App...
+2024-11-06 10:00:45,930 - app - INFO - Application initialized successfully
+2024-11-06 10:00:45,930 - app - INFO - Running on http://0.0.0.0:4439
+2024-11-06 10:00:45,930 - app - INFO - Debug mode: True
+2024-11-06 10:00:45,941 - werkzeug - WARNING -  * Debugger is active!
+2024-11-06 10:00:45,989 - werkzeug - INFO -  * Debugger PIN: 485-770-716
+2024-11-06 10:00:57,566 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 10:00:57] "GET / HTTP/1.1" 200 -
+2024-11-06 10:00:58,477 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 10:00:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-06 10:03:06,175 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 10:03:06] "GET / HTTP/1.1" 200 -
+2024-11-06 10:03:07,008 - werkzeug - INFO - 127.0.0.1 - - [06/Nov/2024 10:03:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
