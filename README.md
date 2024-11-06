@@ -88,12 +88,6 @@ FlavorMatch is an AI-powered food recommendation system that helps users discove
    - Enter a food item in the search bar
    - View similar food recommendations with AI-generated images
 
-## 🔍 API Endpoints
-
-- `GET /`: Home page with search interface
-- `POST /`: Submit food query for recommendations
-- `POST /image_search`: Image-based food search (coming soon)
-
 ## 📝 Configuration
 
 ### MongoDB Setup
