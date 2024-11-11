@@ -1,0 +1,45 @@
+config.ini
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Configuration
+config/config.ini
+.env
+
+# Generated content
+static/generated_images/*
+!static/generated_images/.gitkeep
+
+# Logs
+*.log
+README.md
+food_env/*
